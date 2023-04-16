@@ -1,0 +1,3 @@
+1k record without conc. : 917ms
+100k record without concurrency : 6m17s27ms
+100k record with concurrency :10s972ms
